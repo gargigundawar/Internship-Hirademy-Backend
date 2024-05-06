@@ -16,7 +16,7 @@ Before running the application, make sure you have the following installed:
 Follow these steps to run the application locally:
 
 1. Clone this repository to your local machine:
-https://github.com/gargigundawar/Internship-Hirademy-Backend.git
+git clone https://github.com/gargigundawar/Internship-Hirademy-Backend.git
 
 
 2. Navigate to the project directory:
